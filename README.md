@@ -18,4 +18,4 @@
 ## المتغيرات المطلوبة
 في Environment Variables:
 
-BOT_TOKEN = <8198328333:AAHbF4dWWLRlKKyJyg4JS1qEmzZZDAW0yCU>
+BOT_TOKEN = <BOT_TOKEN>
